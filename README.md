@@ -253,4 +253,4 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxx
 
     {% endif %}
 
-CREDIT - TELUSKO
+CREDIT - Navin Reddy AKA TELUSKO
